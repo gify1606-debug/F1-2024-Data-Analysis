@@ -12,3 +12,5 @@
 - **DNFs:** Clustered at Lusail, Montreal, Interlagos, Monaco; Williams highest among teams.
 
 ## Repo Structure
+
+https://gify1606-debug.github.io/F1-2024-Data-Analysis/new_chart.html
