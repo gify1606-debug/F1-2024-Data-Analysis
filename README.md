@@ -66,18 +66,16 @@ Turn raw Formula 1 results into clear insights on:
 
 ---
 
-## 🚀 Repo Structure  
-F1-2024-Data-Analysis/
-│
-├── Data/                # CSV datasets (2024 season only)
-├── figures/             # Static figures and logos
-├── docs/                # HTML interactive charts (for GitHub Pages)
-│   └── index.html
-│
-├── F1_2024_Analysis_Project_Template.ipynb   # Jupyter Notebook
-├── README.md
-├── LICENSE
-└── .gitignore
+## 🚀 Repo Structure
+
+- **Data/** → CSV datasets (2024 season only)  
+- **figures/** → Static figures and logos  
+- **docs/** → HTML interactive charts (for GitHub Pages)  
+  - `index.html` → entry point for GitHub Pages  
+- **F1_2024_Analysis_Project_Template.ipynb** → main Jupyter Notebook  
+- **README.md** → project documentation  
+- **LICENSE** → project license  
+- **.gitignore** → ignored files configuration  
 
 ---
 
@@ -91,9 +89,13 @@ F1-2024-Data-Analysis/
 
 ---
 
-## 🙌 Acknowledgements  
+## 🙌 Acknowledgements
 
 - Dataset by [Rohan Rao](https://www.kaggle.com/rohanrao) on Kaggle  
-- Logos & visuals belong to Formula 1® (for non-commercial/educational use)  
+- IBM Coursera Course: *Python for Data Science, AI & Development* — foundation in Python and data analysis  
+- [W3Schools](https://www.w3schools.com/python/) — quick Python syntax checks  
+- Official Documentation: [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/python/)  
+- [Stack Overflow](https://stackoverflow.com/) — troubleshooting errors and bugs  
+- Logos & visuals belong to Formula 1® (for non-commercial/educational use)   
 
 ---
