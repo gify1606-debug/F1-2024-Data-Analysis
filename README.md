@@ -13,4 +13,4 @@
 
 ## Repo Structure
 
-https://gify1606-debug.github.io/F1-2024-Data-Analysis/new_chart.html
+[https://gify1606-debug.github.io/F1-2024-Data-Analysis/new_chart.html](https://gify1606-debug.github.io/F1-2024-Data-Analysis/)
