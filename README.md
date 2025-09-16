@@ -89,13 +89,31 @@ Turn raw Formula 1 results into clear insights on:
 
 ---
 
+## ✅ Conclusion
+
+This project takes raw 2024 F1 results → cleans them → analyzes them → publishes
+interactive charts. It shows:
+
+- Solid data-wrangling (schema standardization, DNFs, time parsing).
+- Clear visual storytelling (Matplotlib for static, Plotly for interactive).
+- Reproducibility and deployment (helpers, consistent color maps, GitHub Pages).
+
+**What you can do next**
+- Add teammate head-to-head and per-track profiles.
+- Try a simple predictive model (finish ~ grid + team + track effects).
+- Enrich with strategy/weather where available.
+
+📌 This was my first end-to-end data project — demonstrating data cleaning, analysis, and interactive visualisation with deployment via GitHub Pages.  
+
+---
+
 ## 🙌 Acknowledgements
 
 - Dataset by [Rohan Rao](https://www.kaggle.com/rohanrao) on Kaggle  
 - IBM Coursera Course: *Python for Data Science, AI & Development* — foundation in Python and data analysis  
-- [W3Schools](https://www.w3schools.com/python/) — quick Python syntax checks  
-- Official Documentation: [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/python/)  
+- Official Docs: [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/python/)  
 - [Stack Overflow](https://stackoverflow.com/) — troubleshooting errors and bugs  
-- Logos & visuals belong to Formula 1® (for non-commercial/educational use)   
+- General Python syntax references (W3Schools, tutorials)  
+- Logos & visuals belong to Formula 1® (for non-commercial/educational use)  
 
 ---
